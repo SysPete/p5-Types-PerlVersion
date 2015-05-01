@@ -1,0 +1,8 @@
+MANIFEST.SKIP
+^\.git\/
+^.*\.tar.gz$
+^.*.bak
+^.*.old
+^.*.swp
+.gitignore
+.travis.yml
