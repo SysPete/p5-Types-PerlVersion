@@ -59,6 +59,8 @@ Peter Mottram (SysPete), C<< <peter at sysnix.com> >>
 
 =head1 BUGS
 
+Please report any bugs found to:
+
 L<https://github.com/SysPete/p5-Types-PerlVersion/issues>
 
 =head1 SUPPORT
@@ -71,17 +73,13 @@ You can also look for information at:
 
 =over 4
 
-=item * GitHub repository
+=item * L<GitHub repository|https://github.com/SysPete/p5-Types-PerlVersion>
 
-L<https://github.com/SysPete/p5-Types-PerlVersion>
-
-=item * meta::cpan
-
-L<https://metacpan.org/pod/Types::PerlVersion>
+=item * L<meta::cpan|https://metacpan.org/pod/Types::PerlVersion>
 
 =back
 
-head1 SEE ALSO
+=head1 SEE ALSO
 
 If you prefer to use L<MooseX::Types> then see L<MooseX::Types::PerlVersion>
 which was the basis of this module.
